@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2269ca55-0331-42e4-8a54-d7eb089e7179" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/World.java" afterDir="false" />
+    <list default="true" id="2269ca55-0331-42e4-8a54-d7eb089e7179" name="Changes" comment="개발 팀장 '홍길동'의 첫 번째 커밋입니다.">
+      <change beforePath="$PROJECT_DIR$/src/ch01/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch01/Hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +21,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="79ae9415-451f-4ce5-b6bd-01fb6b22212c" />
+        <option name="url" value="https://github.com/kanaju0602/collabo_intellij.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2VjJUnq6RqQJtS7IU3KC9xq35Dt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -52,6 +57,15 @@
       <option name="presentableId" value="Default" />
       <updated>1695343574082</updated>
     </task>
+    <task id="LOCAL-00001" summary="개발 팀장 '홍길동'의 첫 번째 커밋입니다.">
+      <option name="closed" value="true" />
+      <created>1695344717128</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695344717128</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,6 +78,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="개발 팀장 '홍길동'의 첫 번째 커밋입니다." />
+    <option name="LAST_COMMIT_MESSAGE" value="개발 팀장 '홍길동'의 첫 번째 커밋입니다." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
